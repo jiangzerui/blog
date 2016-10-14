@@ -1,12 +1,10 @@
 ---
 layout: page
-tagline: 
+tagline: ## BLOG **记忆的片段**
 ---
 
     
-## BLOG 
 
-记录每一篇愿意记忆的片段
 
 <ul class="posts">
   {% for post in site.posts %}
