@@ -2,7 +2,7 @@
 layout: page
 tagline: 
 ---
-{% include JB/setup %}
+
     
 ## BLOG 
 
