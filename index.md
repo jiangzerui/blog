@@ -1,13 +1,8 @@
 ---
 layout: page
-title: 蒋泽瑞
-tagline: Homepage
+tagline: 
 ---
 {% include JB/setup %}
-
-## ABout ME
-
-
     
 ## BLOG 
 
