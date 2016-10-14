@@ -1,6 +1,7 @@
 ---
 layout: page
-tagline: ## BLOG **记忆的片段**
+## BLOG **记忆的片段**
+tagline: 
 ---
 
     
