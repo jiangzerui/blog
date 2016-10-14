@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BLOG **记忆的片段**
-tagline: 
+title: BLOG 
+tagline: 记忆的片段
 ---
 
     
