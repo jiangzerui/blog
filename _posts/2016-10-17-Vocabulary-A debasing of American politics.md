@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: “A debasing of American politics”
+description: “数数自己给自己起了个英文名，小家伙真了不起”
+category: Learing
+tags: [vocabulary]
+---
 ###美国的政治辩论
 ——— 健康的民主国家依赖于不成文的规定，共和党的提名人完全彻底践踏了
 
