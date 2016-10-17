@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “A debasing of American politics”
-description: “数数自己给自己起了个英文名，小家伙真了不起”
+description: “from economist”
 category: Learing
 tags: [vocabulary]
 ---
