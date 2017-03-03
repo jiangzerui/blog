@@ -8,9 +8,9 @@ title: "再次整理一下在Github上创建个人站点"
 </p>
 - **WebStorm** 
 (`作为jekell网站结构的IDE编辑器`) 
-- **MarkdownPad2** (`作为发布blog日志的编辑器`，(http://markdownpad.com))
-- **GitHub for windows** (`windows桌面版的github，非常方便，只要本地有更新，就能检测到`，(https://desktop.github.com/))
-- **已注册域名** (`本人早在很早以前就注册了本人姓名的域名`，（https://wanwang.aliyun.com/domain/）)
+- **MarkdownPad2** (`作为发布blog日志的编辑器`，[markdownpad](http://markdownpad.com))
+- **GitHub for windows** (`windows桌面版的github，非常方便，只要本地有更新，就能检测到`，([Github for windows](https://desktop.github.com/))
+- **已注册域名** (`本人早在很早以前就注册了本人姓名的域名`，[阿里云万网域名注册](https://wanwang.aliyun.com/domain/))
 - **N多reference doc** 
 ([jekyll bootstrap](http://jekyllbootstrap.com/), [jekyll themes](https://jekyllthemes.io/), [hexo](https://hexo.io/), [基于GitHub和Jekyll的博客搭建](http://phoenixwu.cn/2017/02/20/share-start-blog/),[jekyll 中文官网](http://jekyll.com.cn),[jekyll 官网](http://jekyllrb.com/))
 
