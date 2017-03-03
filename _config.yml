@@ -1,6 +1,4 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 
@@ -9,7 +7,7 @@ title:               Jiang Zerui
 tagline:             '极简'
 description:         ''
 url:                 http://jiangzerui.cn
-baseurl:             https://jiangzerui.github.io
+baseurl:            https://jiangzerui.github.io
 paginate:            5
 
 # About/contact
