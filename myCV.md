@@ -1,4 +1,4 @@
 ---
 layout: page
-title: about J.J
+title:  Jiang Zerui's CV
 ---
