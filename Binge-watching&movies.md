@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Binge-watching
 ---
 
 **喜欢的站点**
