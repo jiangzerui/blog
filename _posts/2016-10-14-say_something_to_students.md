@@ -3,7 +3,6 @@ layout: post
 title: “想对我的学生说点什么”
 description: “关于如何看待自己，如何对待别人”
 category: 工作
-tags: [学术]
 ---
 
 
