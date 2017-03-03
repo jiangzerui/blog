@@ -20,13 +20,13 @@ title: "再次整理一下在Github上创建个人站点"
 
 ###First 2：申请自己想要的域名，并绑定到GitHub自己的空间上。如下图
 <p>
-![image](https://github.com/jiangzerui/picture_blog/raw/master/repository%20setting.png))
+![image](https://github.com/jiangzerui/picture_blog/raw/master/repository%20setting.png)
 <p>
-![image](https://github.com/jiangzerui/picture_blog/raw/master/domain%20setting.png))
+![image](https://github.com/jiangzerui/picture_blog/raw/master/domain%20setting.png)
 
 ###First 3：用webstome打开本地和Github共享的个人空间目录，在根目录上创建html文档的文件，命名“CNAME”，文件里面加入个人申
 <p>
 
-![image](https://github.com/jiangzerui/picture_blog/raw/master/blog目录结构及CNAME内容.png))
+![image](https://github.com/jiangzerui/picture_blog/raw/master/blog目录结构及CNAME内容.png)
 
 ###First 4：接下来就踏实在posts目录下面用mdp写文章吧
