@@ -5,7 +5,7 @@ permalink:           pretty
 # Setup
 title:               Jiang Zerui
 tagline:             '极简-Homepage'
-description:         'zerui 的个人站点'
+description:         ''
 url:                 http://jiangzerui.cn
 baseurl:            https://jiangzerui.github.io
 paginate:            5
