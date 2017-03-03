@@ -16,8 +16,7 @@ title: "再次整理一下在Github上创建个人站点"
 
 接下来就比较简单：
 
-###First 1：
-	找到一个一个jekelly的模板，download下来。然后根据所在的操作系统平台搭建本地的web blog 站点（其实完全没有必要，只要下载下来设置好github的**GitHub Pages**然后再把这个站点上传上去即可。具体操作看最原版的官方教程，中文翻译来，抄来抄去的无聊至极。[GitHub pages 官网教程](https://pages.github.com/)
+###First 1：找到一个一个jekelly的模板，download下来。然后根据所在的操作系统平台搭建本地的web blog 站点（其实完全没有必要，只要下载下来设置好github的**GitHub Pages**然后再把这个站点上传上去即可。具体操作看最原版的官方教程，中文翻译来，抄来抄去的无聊至极。[GitHub pages 官网教程](https://pages.github.com/)
 
 ###First 2：申请自己想要的域名，并绑定到GitHub自己的空间上。如下图
 <p>
