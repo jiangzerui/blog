@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “A debasing of American politics”
-date:
+date: 2016-10-17 12:36:09
 categories: Learing
 ---
 ###美国的政治辩论
