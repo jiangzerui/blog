@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "再次整理一下在Github上创建个人站点"
+date: 2017-03-03
+categories: 生活
 ---
 
 <p>

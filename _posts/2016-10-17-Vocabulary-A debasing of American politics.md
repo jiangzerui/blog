@@ -2,7 +2,7 @@
 layout: post
 title: “A debasing of American politics”
 date: 2016-10-17
-categories: Learing
+categories: 工作
 ---
 ###美国的政治辩论
 ——— 健康的民主国家依赖于不成文的规定，共和党的提名人完全彻底践踏了
