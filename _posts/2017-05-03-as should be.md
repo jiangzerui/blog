@@ -13,4 +13,4 @@ For what ...
 
 
 
-<img src="{{ site.baseurl }}/public/asset/pic/shushu吹泡泡.JPG" style="width:60%;display:inline;text-align: center;" />
+<img src="{{ site.baseurl }}/public/asset/pic/shushu吹泡泡.jpg" style="width:60%;display:inline;text-align: center;" />
