@@ -8,14 +8,14 @@ title: 个人收藏站点
    金融
 - [银河证券课程中心](http://chinastock.21tb.com)
 - [商业策划](http://sim.cesim.cn)
-
+- [高顿](https://www.gaodun.com/)
 
    数据分析
 - [Economic Research - Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/)      
 - [Consumer Price Indexes (CPI and PCE)](https://fred.stlouisfed.org/series/CPIAUCSL)
 - [Tushare](http://tushare.waditu.com/)
 - [pandas](http://pandas.pydata.org/pandas-docs/stable/index.html ) 
-    
+- [tableau](https://www.tableau.com/academic/students )
     
    IT
 - [Servicemesh](http://www.servicemesh.cn/)
@@ -31,9 +31,10 @@ title: 个人收藏站点
 - [The Economist](http://stockpage.10jqka.com.cn/)
 
    考试
-- [高项软考](http://www.bjrbj.gov.cn/)   
-
-
+- [软考-北京](http://www.bjrbj.gov.cn/bjpta/)  
+ 
+   工作
+- [航发双创](http://139.199.25.187:10022/sc-portal/)  
 
 
 ##待看
