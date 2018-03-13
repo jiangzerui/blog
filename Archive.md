@@ -28,7 +28,7 @@ title: 个人收藏站点
 
    
    证券分析
-- [The Economist](http://stockpage.10jqka.com.cn/)
+- [同花顺个股](http://stockpage.10jqka.com.cn/)
 
    考试
 - [软考-北京](http://www.bjrbj.gov.cn/bjpta/)  
