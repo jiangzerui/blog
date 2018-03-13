@@ -29,6 +29,10 @@ title: 个人收藏站点
     文献
 - [The Economist](https://xmuplus.github.io/)
 
+   
+    证券分析
+- [The Economist](http://stockpage.10jqka.com.cn/)
+
 
 
 
@@ -36,5 +40,4 @@ title: 个人收藏站点
 
 - [IBM HyperLedger fabric 简述](http://www.8btc.com/ibm-hyperledger-fabric)
 - [IBM Hyperledger Fabric 开发环境搭建（windows环境）](http://blog.csdn.net/vinsuan1993/article/details/73725976)
-- [The Big Bang Theory S10](http://cn163.net/archives/23809/)
 
