@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html lang="GBK">
 
+
+<!--增加微博关注-->
+<html xmlns:wb="http://open.weibo.com/wb">
+
+
   {% include head.html %}
 
   <body class="theme-base-0d" >
 
     {% include sidebar.html %}
 
+
+    <wb:follow-button uid="2991975565" type="red_1" width="67" height="24" ></wb:follow-button>
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
@@ -43,22 +50,6 @@
         }, false);
       })(document);
     </script>
-    <!-- 多说评论框 start -->
-    <div class="ds-thread" data-thread-key={{ page.id }} data-title={{ page.title }} data-url="www.jiangzerui.cn/{{ page.url }}"></div>
-    <!-- 多说评论框 end -->
-    <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-    <script type="text/javascript">
-        var duoshuoQuery = {short_name:"jiangzerui"};
-        (function() {
-            var ds = document.createElement('script');
-            ds.type = 'text/javascript';ds.async = true;
-            ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-            ds.charset = 'UTF-8';
-            (document.getElementsByTagName('head')[0]
-            || document.getElementsByTagName('body')[0]).appendChild(ds);
-        })();
-    </script>
-    <!-- 多说公共JS代码 end -->
 
   </body>
 </html>
