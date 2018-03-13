@@ -3,7 +3,6 @@ layout: page
 title: 个人收藏站点
 --
 
-
 **学习站点**
 
     金融
@@ -14,8 +13,7 @@ title: 个人收藏站点
 
     数据分析
 - [Economic Research - Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/)      
-         
-     -- [Consumer Price Indexes (CPI and PCE)](https://fred.stlouisfed.org/series/CPIAUCSL)
+- [Consumer Price Indexes (CPI and PCE)](https://fred.stlouisfed.org/series/CPIAUCSL)
 - [Tushare](http://tushare.waditu.com/)
 - [pandas](http://pandas.pydata.org/pandas-docs/stable/index.html ) 
     
