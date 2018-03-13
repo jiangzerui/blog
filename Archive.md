@@ -30,6 +30,9 @@ title: 个人收藏站点
    证券分析
 - [The Economist](http://stockpage.10jqka.com.cn/)
 
+   考试
+- [高项软考](http://www.bjrbj.gov.cn/)   
+
 
 
 
