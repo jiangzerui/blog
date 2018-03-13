@@ -5,30 +5,29 @@ title: 个人收藏站点
 
 **学习站点**
 
-    金融
+   金融
 - [银河证券课程中心](http://chinastock.21tb.com)
 - [商业策划](http://sim.cesim.cn)
 
 
-
-    数据分析
+   数据分析
 - [Economic Research - Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/)      
 - [Consumer Price Indexes (CPI and PCE)](https://fred.stlouisfed.org/series/CPIAUCSL)
 - [Tushare](http://tushare.waditu.com/)
 - [pandas](http://pandas.pydata.org/pandas-docs/stable/index.html ) 
     
     
-    IT
+   IT
 - [Servicemesh](http://www.servicemesh.cn/)
 - [IBM-blockchain](https://www.ibm.com/blockchain)
 - [IBM-hyperledger-tutorials](http://hyperledger-fabric.readthedocs.io/en/latest/tutorials.html)  
 
     
-    文献
+   文献
 - [The Economist](https://xmuplus.github.io/)
 
    
-    证券分析
+   证券分析
 - [The Economist](http://stockpage.10jqka.com.cn/)
 
 
