@@ -21,7 +21,7 @@ title: 个人收藏站点
 - [Servicemesh](http://www.servicemesh.cn/)
 - [IBM-blockchain](https://www.ibm.com/blockchain)
 - [IBM-hyperledger-tutorials](http://hyperledger-fabric.readthedocs.io/en/latest/tutorials.html)  
-
+- [微博开发](http://open.weibo.com/development)
     
    文献
 - [The Economist](https://xmuplus.github.io/)
