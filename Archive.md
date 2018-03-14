@@ -6,7 +6,7 @@ title: 个人收藏站点
 **学习站点**
 
    金融
-- [银河证券课程中心](http://chinastock.21tb.com)
+- [银河证券课程中心](http://chinastock.21tb.com) http://szbank.duapp.com/search/?wd=
 - [商业策划](http://sim.cesim.cn)
 - [高顿](https://www.gaodun.com/)
 
