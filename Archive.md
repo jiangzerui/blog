@@ -32,6 +32,7 @@ title: 个人收藏站点
 
    考试
 - [软考-北京](http://www.bjrbj.gov.cn/bjpta/)  
+- [业余无线电](http://xt.bjwxdxh.org.cn/loginmember/)  撒123456
  
    工作
 - [航发双创](http://139.199.25.187:10022/sc-portal/)  
