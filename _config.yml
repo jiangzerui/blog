@@ -9,7 +9,7 @@ description:         ''
 url:                 http://jiangzerui.cn
 baseurl:             https://jiangzerui.github.io
 paginate:            10
-repo:
+repo:                www.github.com/jiangzerui
 
 # About/contact
 author:
