@@ -1,0 +1,44 @@
+
+---
+layout: post
+title: 前后分离的站点重写07
+date: 2020-01-13
+categories: 个人
+---
+
+这周主要是完成shiro的实现来保证安全访问控制。
+
+1. 今天抽时间把shiro的权限验证搞完，本周争取完成基本功能。下周上线
+
+
+reference 前后分离的架构种使用shiro
+https://blog.csdn.net/u013615903/article/details/78781166
+
+
+ Unsatisfied dependency expressed through field 'userService';
+ nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.jiangzerui.blog.service.UserService'
+ available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations:
+
+
+ https://blog.csdn.net/u33445687/article/details/83617510{@org.springframework.beans.factory.annotation.Autowired(required=true)}
+
+
+ redis参考文档 在window下的
+
+ https://blog.csdn.net/weixin_43527241/article/details/88723408
+
+
+前后分离遇到的一大思路转变：
+1. 从controller直接跳转到登录页面，需要重定向，并且不在自己的项目里面。即登录的发布页面需要用到
+        public void testRed(HttpServletResponse response) throws Exception{
+            response.sendRedirect("https://www.baidu.com");
+        }
+
+  reference doc:
+  https://blog.csdn.net/yy226953/article/details/88656508
+
+  https://github.com/AlenYang123456/Springboot2.x-Shiro/tree/master/src
+
+
+  鉴权生效最终解决方案
+  https://blog.csdn.net/qq_40990836/article/details/86523501
